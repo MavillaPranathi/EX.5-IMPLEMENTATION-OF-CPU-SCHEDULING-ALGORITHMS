@@ -64,7 +64,8 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ![fcfs](https://github.com/MavillaPranathi/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118343610/b8e7c433-ec0f-47ff-ae29-a4a8551fca00)
 
 
-### RESULT: First-Come-First-Serve Scheduling is implemented successfully.
+### RESULT: 
+First-Come-First-Serve Scheduling is implemented successfully.
 
 
 ## AIM: To implement Shortest Job First (SJF) Preemptive Scheduling
@@ -140,7 +141,8 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ![sjf](https://github.com/MavillaPranathi/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118343610/8f04ca18-0a49-4fcd-8466-d4c3220cd8d2)
 
 
-### RESULT: Shortest Job First (SJF) preemptive scheduling is implemented successfully.
+### RESULT: 
+Shortest Job First (SJF) preemptive scheduling is implemented successfully.
 
 ## AIM: To implement Round Robin (RR) Scheduling
 
@@ -224,7 +226,8 @@ wt time=%f,avg turn around time=%f",awt,atat);
 
 ![rr](https://github.com/MavillaPranathi/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118343610/28eef63b-a1b3-4a91-9c30-4b612342e373)
 
-### RESULT: Round Robin (RR) Scheduling is implemented successfully.
+### RESULT:
+Round Robin (RR) Scheduling is implemented successfully.
 
 
 ## AIM: To implement Priority Preemptive Scheduling
@@ -307,4 +310,5 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ![prority](https://github.com/MavillaPranathi/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118343610/dfbe5a68-c68d-4b0a-8263-caf8c86890df)
 
 
-### RESULT: Priority Preemptive scheduling is implemented successfully.
+### RESULT:
+Priority Preemptive scheduling is implemented successfully.
